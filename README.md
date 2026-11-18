@@ -4,7 +4,7 @@
 
 I build practical mobile and web applications with **Flutter, Python and JavaScript**, and publish each one with a live demo. I studied Software Engineering at Zhejiang Normal University in China, worked as a Software Engineer at Sibrar, and also work in accounting, which keeps me focused on accurate, reliable data.
 
-🌐 **Portfolio:** [nainezz.github.io/portfolio](https://nainezz.github.io/portfolio/) · 📄 [Download my CV](https://nainezz.github.io/portfolio/assets/Mohamed-Yussuf-CV.pdf)
+🌐 **Portfolio:** [nainezz.github.io/portfolio](https://nainezz.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-yussuf-7726791a9/) · 📄 [Download my CV](https://nainezz.github.io/portfolio/assets/Mohamed-Yussuf-CV.pdf)
 
 ## Featured projects
 
@@ -27,4 +27,4 @@ More Flutter apps, all with live demos: [Meals & Recipes](https://github.com/nai
 
 ## Get in touch
 
-📧 [nainezca4@gmail.com](mailto:nainezca4@gmail.com) · 💬 [WhatsApp](https://wa.me/254743676970) · 📸 [Instagram](https://instagram.com/nainezz17)
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-yussuf-7726791a9/) · 📧 [nainezca4@gmail.com](mailto:nainezca4@gmail.com) · 💬 [WhatsApp](https://wa.me/254743676970) · 📸 [Instagram](https://instagram.com/nainezz17)
